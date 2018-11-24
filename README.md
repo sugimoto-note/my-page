@@ -1,10 +1,10 @@
-# myapp
+# My Page
 
-> My wicked Nuxt.js project
+> My Portfolio project
 
 ## Build Setup
 
-``` bash
+```bash
 # install dependencies
 $ npm install
 
