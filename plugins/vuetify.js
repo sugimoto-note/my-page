@@ -1,8 +1,10 @@
 import Vue from 'vue'
 import Vuetify from 'vuetify'
 import colors from 'vuetify/es5/util/colors'
+import '@mdi/font/css/materialdesignicons.css'
 
 Vue.use(Vuetify, {
+  iconfont: 'mdi',
   theme: {
     primary: '#51a1a2', // a color that is not in the material colors palette
     accent: '#c8d627',

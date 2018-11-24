@@ -8,8 +8,10 @@
         <span class="display-2">Works</span>
       </v-toolbar-title>
       <v-spacer />
-      <v-toolbar-items class="hidden-sm-and-down">
-        <v-btn flat to="/">HOME</v-btn>
+      <v-toolbar-items>
+        <v-btn flat icon large to="/">
+          <v-icon large>home</v-icon>
+        </v-btn>
       </v-toolbar-items>
     </v-toolbar>
   </v-layout>

@@ -4,9 +4,11 @@
       <v-layout justify-start column>
         <v-layout row wrap align-center justify-center>
           <v-flex xs12 sm10 md8 lg6>
-            <logo/>
-            <h1 class="display-4">Sugimoto Note</h1>
-            <h2 class="display-3 font-weight-light">Portfolio</h2>
+            <div class="text-xs-center text-sm-center text-md-left">
+              <logo/>
+            </div>
+            <h1 class="text-xs-center text-sm-center text-md-left mb-2">Sugimoto Note</h1>
+            <h2 class="text-xs-center text-sm-center text-md-left font-weight-light">Portfolio</h2>
           </v-flex>
         </v-layout>
         <v-layout row wrap align-start justify-center>
